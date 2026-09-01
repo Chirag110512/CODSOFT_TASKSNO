@@ -65,4 +65,4 @@ Chatbot: Goodbye! Have a great day!
 Python, pandas, scikit-learn, OpenCV
 
 ## 🙋 About
-Completed by **[Your Name]** as part of the CODSOFT Internship Program.
+Completed by [Chirag Kabra] as part of the CODSOFT Internship Program.
